@@ -34,25 +34,25 @@ function onCreate()
     setObjectCamera('hudcoverbottom','hud')
 
     --so many fucking CLOUDS man why did i decide to do this you better pay me extra willow
-    makeLuaSprite('cloud0','bg/roof/clouds/cloud0',getRandomInt(-1300,-1800),getRandomInt(0,300))
+    makeLuaSprite('cloud0','bg/roof/cloud0',getRandomInt(-1300,-1800),getRandomInt(0,300))
     scaleObject('cloud0',.5,.5)
     doTweenX('0tween','cloud0',1500,getRandomInt(10,30),linear) -- cloud 0
-    makeLuaSprite('cloud1','bg/roof/clouds/cloud1',getRandomInt(-1300,-1800),getRandomInt(0,300))
+    makeLuaSprite('cloud1','bg/roof/cloud1',getRandomInt(-1300,-1800),getRandomInt(0,300))
     scaleObject('cloud1',.3,.3)
     doTweenX('1tween','cloud1',1500,getRandomInt(10,30),linear) -- cloud 1
-    makeLuaSprite('cloud2','bg/roof/clouds/cloud2',getRandomInt(-1300,-1800),getRandomInt(0,300))
+    makeLuaSprite('cloud2','bg/roof/cloud2',getRandomInt(-1300,-1800),getRandomInt(0,300))
     scaleObject('cloud2',.5,.5)
     doTweenX('2tween','cloud2',1500,getRandomInt(10,30),linear) -- cloud 2
-    makeLuaSprite('cloud3','bg/roof/clouds/cloud3',getRandomInt(-1300,-1800),getRandomInt(0,300))
+    makeLuaSprite('cloud3','bg/roof/cloud3',getRandomInt(-1300,-1800),getRandomInt(0,300))
     scaleObject('cloud3',.3,.3)
     doTweenX('3tween','cloud3',1500,getRandomInt(10,30),linear) -- cloud 3
-    makeLuaSprite('cloud4','bg/roof/clouds/cloud4',getRandomInt(-1300,-1800),getRandomInt(0,300))
+    makeLuaSprite('cloud4','bg/roof/cloud4',getRandomInt(-1300,-1800),getRandomInt(0,300))
     scaleObject('cloud4',.5,.5)
     doTweenX('4tween','cloud4',1500,getRandomInt(10,30),linear) -- cloud 4
-    makeLuaSprite('cloud5','bg/roof/clouds/cloud5',getRandomInt(-1300,-1800),getRandomInt(0,300))
+    makeLuaSprite('cloud5','bg/roof/cloud5',getRandomInt(-1300,-1800),getRandomInt(0,300))
     scaleObject('cloud5',.3,.3)
     doTweenX('5tween','cloud5',1500,getRandomInt(10,30),linear) -- cloud 5
-    makeLuaSprite('cloud6','bg/roof/clouds/cloud6',getRandomInt(-1300,-1800),getRandomInt(0,300))
+    makeLuaSprite('cloud6','bg/roof/cloud6',getRandomInt(-1300,-1800),getRandomInt(0,300))
     scaleObject('cloud6',.5,.5)
     doTweenX('6tween','cloud6',1500,getRandomInt(10,30),linear) -- cloud 6
 
