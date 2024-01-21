@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Blossom phone.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BlossomPhoneDialogue0000" x="10" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0001" x="489" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0002" x="489" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0003" x="489" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0004" x="968" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0005" x="489" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0006" x="1447" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0007" x="968" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0008" x="1926" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0009" x="1926" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0010" x="1926" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0011" x="2405" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0012" x="2884" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0013" x="2884" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0014" x="3363" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0015" x="3842" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0016" x="3363" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0017" x="4321" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0018" x="4321" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0019" x="4800" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0020" x="4800" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0021" x="4800" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0022" x="4800" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0023" x="4800" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0024" x="4800" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0025" x="4800" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0026" x="4800" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0027" x="4800" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0028" x="5279" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0029" x="5279" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0030" x="5279" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0031" x="5279" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0032" x="5758" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0033" x="5279" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0034" x="6237" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0035" x="6237" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0036" x="6237" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0037" x="5758" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0038" x="6716" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0039" x="6716" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0040" x="5279" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0041" x="5279" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0042" x="7195" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0043" x="7195" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0044" x="7674" y="10" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0045" x="10" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0046" x="10" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0047" x="10" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0048" x="10" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0049" x="10" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0050" x="489" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0051" x="968" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0052" x="1447" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0053" x="1447" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0054" x="1926" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0055" x="1926" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0056" x="2405" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0057" x="968" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0058" x="489" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0059" x="489" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0060" x="489" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0061" x="968" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0062" x="1447" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0063" x="1447" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0064" x="1926" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0065" x="1926" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0066" x="2405" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0067" x="10" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0068" x="10" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0069" x="10" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0070" x="10" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0071" x="10" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0072" x="10" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDialogue0073" x="10" y="754" width="469" height="734"/>
+	<SubTexture name="BlossomPhoneDown0000" x="2884" y="754" width="479" height="722" frameX="0" frameY="-9" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneDown0001" x="2884" y="754" width="479" height="722" frameX="0" frameY="-9" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneDown0002" x="3373" y="754" width="478" height="730" frameX="-2" frameY="-1" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneDown0003" x="3373" y="754" width="478" height="730" frameX="-2" frameY="-1" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneDown0004" x="3861" y="754" width="478" height="731" frameX="-6" frameY="0" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneDown0005" x="3861" y="754" width="478" height="731" frameX="-6" frameY="0" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneDown0006" x="4349" y="754" width="478" height="731" frameX="-6" frameY="0" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneDown0007" x="4349" y="754" width="478" height="731" frameX="-6" frameY="0" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneDown0008" x="4349" y="754" width="478" height="731" frameX="-6" frameY="0" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneDown0009" x="4349" y="754" width="478" height="731" frameX="-6" frameY="0" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneDown0010" x="4349" y="754" width="478" height="731" frameX="-6" frameY="0" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneDown0011" x="4349" y="754" width="478" height="731" frameX="-6" frameY="0" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneDown0012" x="4349" y="754" width="478" height="731" frameX="-6" frameY="0" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneDown0013" x="4349" y="754" width="478" height="731" frameX="-6" frameY="0" frameWidth="484" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneIdle0000" x="4837" y="754" width="467" height="729" frameX="-3" frameY="-15" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneIdle0001" x="4837" y="754" width="467" height="729" frameX="-3" frameY="-15" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneIdle0002" x="5314" y="754" width="468" height="730" frameX="0" frameY="-6" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneIdle0003" x="5314" y="754" width="468" height="730" frameX="0" frameY="-6" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneIdle0004" x="5792" y="754" width="467" height="732" frameX="-9" frameY="-2" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneIdle0005" x="5792" y="754" width="467" height="732" frameX="-9" frameY="-2" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneIdle0006" x="6269" y="754" width="468" height="733" frameX="-15" frameY="-1" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneIdle0007" x="6269" y="754" width="468" height="733" frameX="-15" frameY="-1" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneIdle0008" x="6747" y="754" width="469" height="734" frameX="-16" frameY="0" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneIdle0009" x="6747" y="754" width="469" height="734" frameX="-16" frameY="0" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneIdle0010" x="6747" y="754" width="469" height="734" frameX="-16" frameY="0" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneIdle0011" x="6747" y="754" width="469" height="734" frameX="-16" frameY="0" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneIdle0012" x="6747" y="754" width="469" height="734" frameX="-16" frameY="0" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneIdle0013" x="6747" y="754" width="469" height="734" frameX="-16" frameY="0" frameWidth="485" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0000" x="7226" y="754" width="490" height="739" frameX="0" frameY="-5" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0001" x="7226" y="754" width="490" height="739" frameX="0" frameY="-5" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0002" x="10" y="1503" width="478" height="743" frameX="-16" frameY="-1" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0003" x="10" y="1503" width="478" height="743" frameX="-16" frameY="-1" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0004" x="498" y="1503" width="479" height="744" frameX="-25" frameY="0" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0005" x="498" y="1503" width="479" height="744" frameX="-25" frameY="0" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0006" x="987" y="1503" width="479" height="744" frameX="-25" frameY="0" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0007" x="987" y="1503" width="479" height="744" frameX="-25" frameY="0" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0008" x="987" y="1503" width="479" height="744" frameX="-25" frameY="0" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0009" x="987" y="1503" width="479" height="744" frameX="-25" frameY="0" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0010" x="987" y="1503" width="479" height="744" frameX="-25" frameY="0" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0011" x="987" y="1503" width="479" height="744" frameX="-25" frameY="0" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0012" x="987" y="1503" width="479" height="744" frameX="-25" frameY="0" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLeft0013" x="987" y="1503" width="479" height="744" frameX="-25" frameY="0" frameWidth="504" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0000" x="1476" y="1503" width="469" height="734" frameX="-14" frameY="-2" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0001" x="1476" y="1503" width="469" height="734" frameX="-14" frameY="-2" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0002" x="1955" y="1503" width="470" height="732" frameX="-5" frameY="-4" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0003" x="1955" y="1503" width="470" height="732" frameX="-5" frameY="-4" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0004" x="2435" y="1503" width="471" height="732" frameX="0" frameY="-4" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0005" x="2435" y="1503" width="471" height="732" frameX="0" frameY="-4" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0006" x="2916" y="1503" width="468" height="736" frameX="-2" frameY="0" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0007" x="2916" y="1503" width="468" height="736" frameX="-2" frameY="0" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0008" x="3394" y="1503" width="471" height="735" frameX="-2" frameY="-2" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0009" x="3394" y="1503" width="471" height="735" frameX="-2" frameY="-2" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0010" x="3875" y="1503" width="483" height="735" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0011" x="3875" y="1503" width="483" height="735" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0012" x="4368" y="1503" width="500" height="739" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0013" x="4368" y="1503" width="500" height="739" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0014" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0015" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0016" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0017" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0018" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0019" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0020" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0021" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0022" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0023" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0024" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0025" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0026" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0027" x="5386" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0028" x="5894" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0029" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0030" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0031" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0032" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0033" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0034" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0035" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0036" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0037" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0038" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0039" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0040" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0041" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0042" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0043" x="5386" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0044" x="5894" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0045" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0046" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0047" x="5386" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0048" x="5894" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0049" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0050" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0051" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0052" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0053" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0054" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0055" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0056" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0057" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0058" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0059" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0060" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0061" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0062" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0063" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0064" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0065" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0066" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0067" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0068" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0069" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0070" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0071" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0072" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0073" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0074" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0075" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0076" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0077" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0078" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0079" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneLose0080" x="4878" y="1503" width="498" height="738" frameX="-2" frameY="-5" frameWidth="502" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissDown0000" x="6402" y="1503" width="478" height="726" frameX="0" frameY="-5" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissDown0001" x="6402" y="1503" width="478" height="726" frameX="0" frameY="-5" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissDown0002" x="6890" y="1503" width="478" height="731" frameX="-1" frameY="0" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissDown0003" x="6890" y="1503" width="478" height="731" frameX="-1" frameY="0" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissDown0004" x="6890" y="1503" width="478" height="731" frameX="-1" frameY="0" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissDown0005" x="6890" y="1503" width="478" height="731" frameX="-1" frameY="0" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissDown0006" x="6890" y="1503" width="478" height="731" frameX="-1" frameY="0" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissDown0007" x="6890" y="1503" width="478" height="731" frameX="-1" frameY="0" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissDown0008" x="6890" y="1503" width="478" height="731" frameX="-1" frameY="0" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissDown0009" x="6890" y="1503" width="478" height="731" frameX="-1" frameY="0" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissDown0010" x="6890" y="1503" width="478" height="731" frameX="-1" frameY="0" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissDown0011" x="6890" y="1503" width="478" height="731" frameX="-1" frameY="0" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissDown0012" x="6890" y="1503" width="478" height="731" frameX="-1" frameY="0" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissDown0013" x="6890" y="1503" width="478" height="731" frameX="-1" frameY="0" frameWidth="479" frameHeight="731"/>
+	<SubTexture name="BlossomPhoneMissLeft0000" x="7378" y="1503" width="480" height="743" frameX="0" frameY="-1" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissLeft0001" x="7378" y="1503" width="480" height="743" frameX="0" frameY="-1" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissLeft0002" x="10" y="2257" width="479" height="744" frameX="-8" frameY="0" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissLeft0003" x="10" y="2257" width="479" height="744" frameX="-8" frameY="0" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissLeft0004" x="10" y="2257" width="479" height="744" frameX="-8" frameY="0" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissLeft0005" x="10" y="2257" width="479" height="744" frameX="-8" frameY="0" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissLeft0006" x="10" y="2257" width="479" height="744" frameX="-8" frameY="0" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissLeft0007" x="10" y="2257" width="479" height="744" frameX="-8" frameY="0" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissLeft0008" x="10" y="2257" width="479" height="744" frameX="-8" frameY="0" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissLeft0009" x="10" y="2257" width="479" height="744" frameX="-8" frameY="0" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissLeft0010" x="10" y="2257" width="479" height="744" frameX="-8" frameY="0" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissLeft0011" x="10" y="2257" width="479" height="744" frameX="-8" frameY="0" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissLeft0012" x="10" y="2257" width="479" height="744" frameX="-8" frameY="0" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissLeft0013" x="10" y="2257" width="479" height="744" frameX="-8" frameY="0" frameWidth="487" frameHeight="744"/>
+	<SubTexture name="BlossomPhoneMissRight0000" x="499" y="2257" width="484" height="744" frameX="-5" frameY="-3" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissRight0001" x="499" y="2257" width="484" height="744" frameX="-5" frameY="-3" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissRight0002" x="993" y="2257" width="482" height="741" frameX="0" frameY="0" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissRight0003" x="993" y="2257" width="482" height="741" frameX="0" frameY="0" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissRight0004" x="993" y="2257" width="482" height="741" frameX="0" frameY="0" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissRight0005" x="993" y="2257" width="482" height="741" frameX="0" frameY="0" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissRight0006" x="993" y="2257" width="482" height="741" frameX="0" frameY="0" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissRight0007" x="993" y="2257" width="482" height="741" frameX="0" frameY="0" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissRight0008" x="993" y="2257" width="482" height="741" frameX="0" frameY="0" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissRight0009" x="993" y="2257" width="482" height="741" frameX="0" frameY="0" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissRight0010" x="993" y="2257" width="482" height="741" frameX="0" frameY="0" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissRight0011" x="993" y="2257" width="482" height="741" frameX="0" frameY="0" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissRight0012" x="993" y="2257" width="482" height="741" frameX="0" frameY="0" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissRight0013" x="993" y="2257" width="482" height="741" frameX="0" frameY="0" frameWidth="489" frameHeight="747"/>
+	<SubTexture name="BlossomPhoneMissUp0000" x="1485" y="2257" width="459" height="754" frameX="-2" frameY="0" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneMissUp0001" x="1485" y="2257" width="459" height="754" frameX="-2" frameY="0" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneMissUp0002" x="1954" y="2257" width="460" height="748" frameX="0" frameY="-6" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneMissUp0003" x="1954" y="2257" width="460" height="748" frameX="0" frameY="-6" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneMissUp0004" x="1954" y="2257" width="460" height="748" frameX="0" frameY="-6" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneMissUp0005" x="1954" y="2257" width="460" height="748" frameX="0" frameY="-6" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneMissUp0006" x="1954" y="2257" width="460" height="748" frameX="0" frameY="-6" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneMissUp0007" x="1954" y="2257" width="460" height="748" frameX="0" frameY="-6" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneMissUp0008" x="1954" y="2257" width="460" height="748" frameX="0" frameY="-6" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneMissUp0009" x="1954" y="2257" width="460" height="748" frameX="0" frameY="-6" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneMissUp0010" x="1954" y="2257" width="460" height="748" frameX="0" frameY="-6" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneMissUp0011" x="1954" y="2257" width="460" height="748" frameX="0" frameY="-6" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneMissUp0012" x="1954" y="2257" width="460" height="748" frameX="0" frameY="-6" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneMissUp0013" x="1954" y="2257" width="460" height="748" frameX="0" frameY="-6" frameWidth="461" frameHeight="754"/>
+	<SubTexture name="BlossomPhoneRight0000" x="2424" y="2257" width="489" height="747" frameX="-16" frameY="-6" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneRight0001" x="2424" y="2257" width="489" height="747" frameX="-16" frameY="-6" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneRight0002" x="2923" y="2257" width="486" height="743" frameX="-5" frameY="-1" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneRight0003" x="2923" y="2257" width="486" height="743" frameX="-5" frameY="-1" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneRight0004" x="3419" y="2257" width="485" height="741" frameX="0" frameY="0" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneRight0005" x="3419" y="2257" width="485" height="741" frameX="0" frameY="0" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneRight0006" x="3419" y="2257" width="485" height="741" frameX="0" frameY="0" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneRight0007" x="3419" y="2257" width="485" height="741" frameX="0" frameY="0" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneRight0008" x="3419" y="2257" width="485" height="741" frameX="0" frameY="0" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneRight0009" x="3419" y="2257" width="485" height="741" frameX="0" frameY="0" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneRight0010" x="3419" y="2257" width="485" height="741" frameX="0" frameY="0" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneRight0011" x="3419" y="2257" width="485" height="741" frameX="0" frameY="0" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneRight0012" x="3419" y="2257" width="485" height="741" frameX="0" frameY="0" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneRight0013" x="3419" y="2257" width="485" height="741" frameX="0" frameY="0" frameWidth="505" frameHeight="753"/>
+	<SubTexture name="BlossomPhoneUp0000" x="3914" y="2257" width="454" height="769" frameX="-16" frameY="0" frameWidth="470" frameHeight="769"/>
+	<SubTexture name="BlossomPhoneUp0001" x="3914" y="2257" width="454" height="769" frameX="-16" frameY="0" frameWidth="470" frameHeight="769"/>
+	<SubTexture name="BlossomPhoneUp0002" x="4378" y="2257" width="458" height="754" frameX="-4" frameY="-15" frameWidth="470" frameHeight="769"/>
+	<SubTexture name="BlossomPhoneUp0003" x="4378" y="2257" width="458" height="754" frameX="-4" frameY="-15" frameWidth="470" frameHeight="769"/>
+	<SubTexture name="BlossomPhoneUp0004" x="4846" y="2257" width="460" height="748" frameX="0" frameY="-21" frameWidth="470" frameHeight="769"/>
+	<SubTexture name="BlossomPhoneUp0005" x="4846" y="2257" width="460" height="748" frameX="0" frameY="-21" frameWidth="470" frameHeight="769"/>
+	<SubTexture name="BlossomPhoneUp0006" x="5316" y="2257" width="460" height="748" frameX="0" frameY="-21" frameWidth="470" frameHeight="769"/>
+	<SubTexture name="BlossomPhoneUp0007" x="5316" y="2257" width="460" height="748" frameX="0" frameY="-21" frameWidth="470" frameHeight="769"/>
+	<SubTexture name="BlossomPhoneUp0008" x="5316" y="2257" width="460" height="748" frameX="0" frameY="-21" frameWidth="470" frameHeight="769"/>
+	<SubTexture name="BlossomPhoneUp0009" x="5316" y="2257" width="460" height="748" frameX="0" frameY="-21" frameWidth="470" frameHeight="769"/>
+	<SubTexture name="BlossomPhoneUp0010" x="5316" y="2257" width="460" height="748" frameX="0" frameY="-21" frameWidth="470" frameHeight="769"/>
+	<SubTexture name="BlossomPhoneUp0011" x="5316" y="2257" width="460" height="748" frameX="0" frameY="-21" frameWidth="470" frameHeight="769"/>
+	<SubTexture name="BlossomPhoneUp0012" x="5316" y="2257" width="460" height="748" frameX="0" frameY="-21" frameWidth="470" frameHeight="769"/>
+	<SubTexture name="BlossomPhoneUp0013" x="5316" y="2257" width="460" height="748" frameX="0" frameY="-21" frameWidth="470" frameHeight="769"/>
+</TextureAtlas>

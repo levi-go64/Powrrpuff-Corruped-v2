@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Buttercup flying.png"><SubTexture name="Buttercup flying idle0000" x="244" y="654" width="251" height="311" frameX="0" frameY="-7" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying idle0001" x="244" y="654" width="251" height="311" frameX="0" frameY="-7" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying idle0002" x="0" y="654" width="244" height="314" frameX="-2" frameY="-4" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying idle0003" x="0" y="654" width="244" height="314" frameX="-2" frameY="-4" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying idle0004" x="753" y="318" width="240" height="316" frameX="-5" frameY="-2" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying idle0005" x="753" y="318" width="240" height="316" frameX="-5" frameY="-2" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying idle0006" x="478" y="329" width="241" height="318" frameX="-6" frameY="0" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying idle0007" x="478" y="329" width="241" height="318" frameX="-6" frameY="0" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying idle0008" x="753" y="0" width="241" height="318" frameX="-7" frameY="0" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying idle0009" x="753" y="0" width="241" height="318" frameX="-7" frameY="0" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying idle0010" x="753" y="0" width="241" height="318" frameX="-7" frameY="0" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying idle0011" x="753" y="0" width="241" height="318" frameX="-7" frameY="0" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying idle0012" x="753" y="0" width="241" height="318" frameX="-7" frameY="0" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying idle0013" x="753" y="0" width="241" height="318" frameX="-7" frameY="0" frameWidth="254" frameHeight="321" />
+<SubTexture name="Buttercup flying left0000" x="597" y="1263" width="288" height="277" frameX="0" frameY="-5" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying left0001" x="597" y="1263" width="288" height="277" frameX="0" frameY="-5" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying left0002" x="1523" y="846" width="283" height="281" frameX="-6" frameY="-1" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying left0003" x="1523" y="846" width="283" height="281" frameX="-6" frameY="-1" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying left0004" x="1189" y="968" width="280" height="282" frameX="-9" frameY="0" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying left0005" x="1189" y="968" width="280" height="282" frameX="-9" frameY="0" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying left0006" x="1189" y="968" width="280" height="282" frameX="-9" frameY="0" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying left0007" x="1189" y="968" width="280" height="282" frameX="-9" frameY="0" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying left0008" x="1189" y="968" width="280" height="282" frameX="-9" frameY="0" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying left0009" x="1189" y="968" width="280" height="282" frameX="-9" frameY="0" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying left0010" x="1189" y="968" width="280" height="282" frameX="-9" frameY="0" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying left0011" x="1189" y="968" width="280" height="282" frameX="-9" frameY="0" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying left0012" x="1189" y="968" width="280" height="282" frameX="-9" frameY="0" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying left0013" x="1189" y="968" width="280" height="282" frameX="-9" frameY="0" frameWidth="292" frameHeight="284" />
+<SubTexture name="Buttercup flying down0000" x="1182" y="1263" width="297" height="265" frameX="-1" frameY="-10" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying down0001" x="1182" y="1263" width="297" height="265" frameX="-1" frameY="-10" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying down0002" x="301" y="1543" width="300" height="264" frameX="0" frameY="-2" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying down0003" x="301" y="1543" width="300" height="264" frameX="0" frameY="-2" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying down0004" x="601" y="1543" width="301" height="264" frameX="0" frameY="0" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying down0005" x="601" y="1543" width="301" height="264" frameX="0" frameY="0" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying down0006" x="601" y="1543" width="301" height="264" frameX="0" frameY="0" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying down0007" x="601" y="1543" width="301" height="264" frameX="0" frameY="0" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying down0008" x="601" y="1543" width="301" height="264" frameX="0" frameY="0" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying down0009" x="601" y="1543" width="301" height="264" frameX="0" frameY="0" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying down0010" x="601" y="1543" width="301" height="264" frameX="0" frameY="0" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying down0011" x="601" y="1543" width="301" height="264" frameX="0" frameY="0" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying down0012" x="601" y="1543" width="301" height="264" frameX="0" frameY="0" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying down0013" x="601" y="1543" width="301" height="264" frameX="0" frameY="0" frameWidth="303" frameHeight="278" />
+<SubTexture name="Buttercup flying up0000" x="0" y="0" width="239" height="329" frameX="0" frameY="0" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying up0001" x="0" y="0" width="239" height="329" frameX="0" frameY="0" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying up0002" x="0" y="329" width="239" height="325" frameX="0" frameY="-4" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying up0003" x="0" y="329" width="239" height="325" frameX="0" frameY="-4" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying up0004" x="239" y="329" width="239" height="323" frameX="0" frameY="-7" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying up0005" x="239" y="329" width="239" height="323" frameX="0" frameY="-7" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying up0006" x="239" y="329" width="239" height="323" frameX="0" frameY="-7" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying up0007" x="239" y="329" width="239" height="323" frameX="0" frameY="-7" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying up0008" x="239" y="329" width="239" height="323" frameX="0" frameY="-7" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying up0009" x="239" y="329" width="239" height="323" frameX="0" frameY="-7" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying up0010" x="239" y="329" width="239" height="323" frameX="0" frameY="-7" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying up0011" x="239" y="329" width="239" height="323" frameX="0" frameY="-7" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying up0012" x="239" y="329" width="239" height="323" frameX="0" frameY="-7" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying up0013" x="239" y="329" width="239" height="323" frameX="0" frameY="-7" frameWidth="243" frameHeight="333" />
+<SubTexture name="Buttercup flying right0000" x="607" y="968" width="306" height="289" frameX="-5" frameY="-6" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying right0001" x="607" y="968" width="306" height="289" frameX="-5" frameY="-6" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying right0002" x="303" y="968" width="304" height="293" frameX="-1" frameY="-2" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying right0003" x="303" y="968" width="304" height="293" frameX="-1" frameY="-2" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying right0004" x="0" y="968" width="303" height="295" frameX="0" frameY="0" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying right0005" x="0" y="968" width="303" height="295" frameX="0" frameY="0" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying right0006" x="0" y="968" width="303" height="295" frameX="0" frameY="0" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying right0007" x="0" y="968" width="303" height="295" frameX="0" frameY="0" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying right0008" x="0" y="968" width="303" height="295" frameX="0" frameY="0" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying right0009" x="0" y="968" width="303" height="295" frameX="0" frameY="0" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying right0010" x="0" y="968" width="303" height="295" frameX="0" frameY="0" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying right0011" x="0" y="968" width="303" height="295" frameX="0" frameY="0" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying right0012" x="0" y="968" width="303" height="295" frameX="0" frameY="0" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying right0013" x="0" y="968" width="303" height="295" frameX="0" frameY="0" frameWidth="314" frameHeight="299" />
+<SubTexture name="Buttercup flying miss left0000" x="885" y="1263" width="297" height="277" frameX="0" frameY="-5" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss left0001" x="885" y="1263" width="297" height="277" frameX="0" frameY="-5" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss left0002" x="1523" y="0" width="289" height="282" frameX="-14" frameY="-1" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss left0003" x="1523" y="0" width="289" height="282" frameX="-14" frameY="-1" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss left0004" x="1523" y="282" width="280" height="282" frameX="-17" frameY="0" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss left0005" x="1523" y="282" width="280" height="282" frameX="-17" frameY="0" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss left0006" x="1523" y="564" width="280" height="282" frameX="-17" frameY="0" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss left0007" x="1523" y="564" width="280" height="282" frameX="-17" frameY="0" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss left0008" x="1523" y="282" width="280" height="282" frameX="-17" frameY="0" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss left0009" x="1523" y="282" width="280" height="282" frameX="-17" frameY="0" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss left0010" x="1523" y="564" width="280" height="282" frameX="-17" frameY="0" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss left0011" x="1523" y="564" width="280" height="282" frameX="-17" frameY="0" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss left0012" x="1523" y="282" width="280" height="282" frameX="-17" frameY="0" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss left0013" x="1523" y="282" width="280" height="282" frameX="-17" frameY="0" frameWidth="303" frameHeight="284" />
+<SubTexture name="Buttercup flying miss down0000" x="300" y="1263" width="297" height="278" frameX="-1" frameY="-17" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss down0001" x="300" y="1263" width="297" height="278" frameX="-1" frameY="-17" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss down0002" x="0" y="1263" width="300" height="280" frameX="0" frameY="0" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss down0003" x="0" y="1263" width="300" height="280" frameX="0" frameY="0" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss down0004" x="1479" y="1263" width="301" height="265" frameX="0" frameY="-13" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss down0005" x="1479" y="1263" width="301" height="265" frameX="0" frameY="-13" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss down0006" x="0" y="1543" width="301" height="265" frameX="0" frameY="-13" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss down0007" x="0" y="1543" width="301" height="265" frameX="0" frameY="-13" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss down0008" x="1479" y="1263" width="301" height="265" frameX="0" frameY="-13" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss down0009" x="1479" y="1263" width="301" height="265" frameX="0" frameY="-13" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss down0010" x="0" y="1543" width="301" height="265" frameX="0" frameY="-13" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss down0011" x="0" y="1543" width="301" height="265" frameX="0" frameY="-13" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss down0012" x="1479" y="1263" width="301" height="265" frameX="0" frameY="-13" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss down0013" x="1479" y="1263" width="301" height="265" frameX="0" frameY="-13" frameWidth="303" frameHeight="295" />
+<SubTexture name="Buttercup flying miss up0000" x="498" y="0" width="255" height="326" frameX="-5" frameY="0" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss up0001" x="498" y="0" width="255" height="326" frameX="-5" frameY="0" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss up0002" x="239" y="0" width="259" height="329" frameX="-1" frameY="0" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss up0003" x="239" y="0" width="259" height="329" frameX="-1" frameY="0" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss up0004" x="495" y="654" width="260" height="305" frameX="0" frameY="-14" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss up0005" x="495" y="654" width="260" height="305" frameX="0" frameY="-14" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss up0006" x="994" y="0" width="260" height="305" frameX="0" frameY="-14" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss up0007" x="994" y="0" width="260" height="305" frameX="0" frameY="-14" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss up0008" x="495" y="654" width="260" height="305" frameX="0" frameY="-14" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss up0009" x="495" y="654" width="260" height="305" frameX="0" frameY="-14" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss up0010" x="994" y="0" width="260" height="305" frameX="0" frameY="-14" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss up0011" x="994" y="0" width="260" height="305" frameX="0" frameY="-14" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss up0012" x="495" y="654" width="260" height="305" frameX="0" frameY="-14" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss up0013" x="495" y="654" width="260" height="305" frameX="0" frameY="-14" frameWidth="263" frameHeight="329" />
+<SubTexture name="Buttercup flying miss right0000" x="913" y="968" width="276" height="289" frameX="0" frameY="-6" frameWidth="276" frameHeight="303" />
+<SubTexture name="Buttercup flying miss right0001" x="913" y="968" width="276" height="289" frameX="0" frameY="-6" frameWidth="276" frameHeight="303" />
+<SubTexture name="Buttercup flying miss right0002" x="1254" y="0" width="269" height="298" frameX="-2" frameY="-2" frameWidth="276" frameHeight="303" />
+<SubTexture name="Buttercup flying miss right0003" x="1254" y="0" width="269" height="298" frameX="-2" frameY="-2" frameWidth="276" frameHeight="303" />
+<SubTexture name="Buttercup flying miss right0004" x="1254" y="298" width="256" height="295" frameX="-7" frameY="0" frameWidth="276" frameHeight="303" />
+<SubTexture name="Buttercup flying miss right0005" x="1254" y="298" width="256" height="295" frameX="-7" frameY="0" frameWidth="276" frameHeight="303" />
+<SubTexture name="Buttercup flying miss right0006" x="1254" y="593" width="256" height="295" frameX="-7" frameY="0" frameWidth="276" frameHeight="303" />
+<SubTexture name="Buttercup flying miss right0007" x="1254" y="593" width="256" height="295" frameX="-7" frameY="0" frameWidth="276" frameHeight="303" />
+<SubTexture name="Buttercup flying miss right0008" x="1254" y="298" width="256" height="295" frameX="-7" frameY="0" frameWidth="276" frameHeight="303" />
+<SubTexture name="Buttercup flying miss right0009" x="1254" y="298" width="256" height="295" frameX="-7" frameY="0" frameWidth="276" frameHeight="303" />
+<SubTexture name="Buttercup flying miss right0010" x="1254" y="593" width="256" height="295" frameX="-7" frameY="0" frameWidth="276" frameHeight="303" />
+<SubTexture name="Buttercup flying miss right0011" x="1254" y="593" width="256" height="295" frameX="-7" frameY="0" frameWidth="276" frameHeight="303" />
+<SubTexture name="Buttercup flying miss right0012" x="1254" y="298" width="256" height="295" frameX="-7" frameY="0" frameWidth="276" frameHeight="303" />
+<SubTexture name="Buttercup flying miss right0013" x="1254" y="298" width="256" height="295" frameX="-7" frameY="0" frameWidth="276" frameHeight="303" />
+</TextureAtlas>
