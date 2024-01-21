@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"dissonance",
+			"bubbles",
+			[
+				0,
+				100,
+				253
+			]
+		],
+		[
+			"sugar-n-spice",
+			"bubbles",
+			[
+				0,
+				100,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "ppg",
+	"weekName": "pibby",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
