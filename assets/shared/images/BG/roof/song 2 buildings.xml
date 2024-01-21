@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="song 2 buildings.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="buildings0000" x="0" y="0" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0001" x="0" y="0" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0002" x="0" y="0" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0003" x="0" y="0" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0004" x="0" y="0" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0005" x="0" y="0" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0006" x="0" y="0" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0007" x="1797" y="0" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0008" x="1797" y="0" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0009" x="1797" y="0" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0010" x="1797" y="0" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0011" x="1797" y="0" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0012" x="1797" y="0" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0013" x="1797" y="0" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0014" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0015" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0016" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0017" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0018" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0019" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0020" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0021" x="1797" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0022" x="1797" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0023" x="1797" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0024" x="1797" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0025" x="1797" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0026" x="1797" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0027" x="1797" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0028" x="0" y="1541" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0029" x="0" y="1541" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0030" x="0" y="1541" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0031" x="0" y="1541" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0032" x="0" y="1541" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0033" x="0" y="1541" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0034" x="0" y="1541" width="1796" height="769" frameX="0" frameY="-1" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0035" x="1797" y="1541" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0036" x="1797" y="1541" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0037" x="1797" y="1541" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0038" x="1797" y="1541" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0039" x="1797" y="1541" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0040" x="1797" y="1541" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0041" x="1797" y="0" width="1796" height="768" frameX="0" frameY="-2" frameWidth="1796" frameHeight="770"/>
+	<SubTexture name="buildings0042" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0043" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0044" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0045" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0046" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0047" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0048" x="0" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0049" x="1797" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0050" x="1797" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0051" x="1797" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0052" x="1797" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0053" x="1797" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0054" x="1797" y="770" width="1796" height="770"/>
+	<SubTexture name="buildings0055" x="1797" y="770" width="1796" height="770"/>
+</TextureAtlas>
