@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bubbles idle"
+		},
+		{
+			"offsets": [
+				11,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bubbles up note"
+		},
+		{
+			"offsets": [
+				-16,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bubbles down note"
+		},
+		{
+			"offsets": [
+				-18,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bubbles right note"
+		},
+		{
+			"offsets": [
+				49,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bubbles left note"
+		},
+		{
+			"offsets": [
+				152,
+				2592
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fly",
+			"loop": false,
+			"name": "Bubbles fly up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bubbles",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "bubbles",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		195,
+		255
+	],
+	"camera_position": [
+		0,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

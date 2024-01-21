@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BlossomPhoneIdle"
+		},
+		{
+			"offsets": [
+				51,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BlossomPhoneLeft"
+		},
+		{
+			"offsets": [
+				3,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BlossomPhoneDown"
+		},
+		{
+			"offsets": [
+				-22,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BlossomPhoneUp"
+		},
+		{
+			"offsets": [
+				-18,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BlossomPhoneRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				20
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BlossomPhoneMissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-2
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BlossomPhoneMissDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				34,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BlossomPhoneMissLeft"
+		},
+		{
+			"offsets": [
+				-21,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BlossomPhoneMissRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				2
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BlossomPhoneLose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				0
+			],
+			"anim": "blossomDialogue",
+			"fps": 24,
+			"name": "BlossomPhoneDialogue",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Blossom phone",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "blossomphone",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		121,
+		201
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

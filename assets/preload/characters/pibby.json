@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pibby idle"
+		},
+		{
+			"offsets": [
+				26,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pibby left note"
+		},
+		{
+			"offsets": [
+				-6,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pibby down note"
+		},
+		{
+			"offsets": [
+				-44,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Pibby up note"
+		},
+		{
+			"offsets": [
+				-118,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pibby right note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-14
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Pibby left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				24
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Pibby up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-24
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Pibby down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				-14
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Pibby right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1500,
+				182
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Pibby bubbles kill",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pibby",
+	"position": [
+		80,
+		270
+	],
+	"healthicon": "pibby",
+	"flip_x": true,
+	"healthbar_colors": [
+		155,
+		60,
+		255
+	],
+	"camera_position": [
+		1300,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

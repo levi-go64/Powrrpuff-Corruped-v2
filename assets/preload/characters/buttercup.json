@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Buttercup idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Buttercup left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-35
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Buttercup down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Buttercup up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				-19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Buttercup right note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				59,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Buttercup left miss"
+		},
+		{
+			"offsets": [
+				-33,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Buttercup up miss"
+		},
+		{
+			"offsets": [
+				-4,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Buttercup down miss"
+		},
+		{
+			"offsets": [
+				-69,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Buttercup right miss"
+		},
+		{
+			"offsets": [
+				170,
+				2440
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fly",
+			"loop": false,
+			"name": "Buttercup fly up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Buttercup",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "buttercup",
+	"flip_x": true,
+	"healthbar_colors": [
+		41,
+		221,
+		0
+	],
+	"camera_position": [
+		100,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
