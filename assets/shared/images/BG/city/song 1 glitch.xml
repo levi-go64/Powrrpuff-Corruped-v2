@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="song 1 glitch.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="song 1 glitch0000" x="0" y="0" width="1663" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0001" x="0" y="0" width="1663" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0002" x="0" y="0" width="1663" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0003" x="0" y="0" width="1663" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0004" x="0" y="0" width="1663" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0005" x="0" y="0" width="1663" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0006" x="0" y="0" width="1663" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0007" x="1664" y="0" width="1662" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0008" x="1664" y="0" width="1662" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0009" x="1664" y="0" width="1662" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0010" x="1664" y="0" width="1662" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0011" x="1664" y="0" width="1662" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0012" x="1664" y="0" width="1662" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0013" x="1664" y="0" width="1662" height="739" frameX="0" frameY="-2" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0014" x="0" y="740" width="1664" height="741"/>
+	<SubTexture name="song 1 glitch0015" x="0" y="740" width="1664" height="741"/>
+	<SubTexture name="song 1 glitch0016" x="0" y="740" width="1664" height="741"/>
+	<SubTexture name="song 1 glitch0017" x="0" y="740" width="1664" height="741"/>
+	<SubTexture name="song 1 glitch0018" x="0" y="740" width="1664" height="741"/>
+	<SubTexture name="song 1 glitch0019" x="0" y="740" width="1664" height="741"/>
+	<SubTexture name="song 1 glitch0020" x="0" y="740" width="1664" height="741"/>
+	<SubTexture name="song 1 glitch0021" x="1665" y="740" width="1661" height="740" frameX="0" frameY="-1" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0022" x="1665" y="740" width="1661" height="740" frameX="0" frameY="-1" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0023" x="1665" y="740" width="1661" height="740" frameX="0" frameY="-1" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0024" x="1665" y="740" width="1661" height="740" frameX="0" frameY="-1" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0025" x="1665" y="740" width="1661" height="740" frameX="0" frameY="-1" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0026" x="1665" y="740" width="1661" height="740" frameX="0" frameY="-1" frameWidth="1664" frameHeight="741"/>
+	<SubTexture name="song 1 glitch0027" x="1665" y="740" width="1661" height="740" frameX="0" frameY="-1" frameWidth="1664" frameHeight="741"/>
+</TextureAtlas>
