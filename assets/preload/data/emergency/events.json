@@ -1,0 +1,16 @@
+{
+	"song": {
+		"events": [
+			[
+				135529.411764706,
+				[
+					[
+						"Play Animation",
+						"blossomDialogue",
+						"Bf"
+					]
+				]
+			]
+		]
+	}
+}
